@@ -18,8 +18,7 @@ On November 24th, 2023, an unnanounced Israeli airstrike hit the home of Khaled 
 <div class="row">
 <div class="col">
 
-## {{ metadata.toll }} children died in Gaza
-[From October 7th to November 27th](https://www.instagram.com/p/C0KgDXVMiMp/).
+## {{ metadata.toll }} children died in [{{ metadata.duration }} days](https://www.instagram.com/euromedhr/)
 </div>
 <div class="col">
 
