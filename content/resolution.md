@@ -2,7 +2,7 @@
 layout: layouts/md.njk
 eleventyNavigation:
   key: ⚖️
-  order: 2
+  order: 3
 ---
 # Resolution
 

@@ -3,6 +3,7 @@ module.exports = {
 	url: "https://reem.day/",
 	language: "en",
 	description: "Reem's Day of Rememberance for Children of Wars, Reem and Tarek Ali Badwan Grandchildren of Khaled Nabhan",
+	toll: 8241,
 	author: {
 		name: "Reem.Day",
 		email: "",

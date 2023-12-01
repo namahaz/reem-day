@@ -8,7 +8,7 @@ eleventyNavigation:
 
 # Reem.Day
 ### December 23rd marks Reem's Day of Remembrance For Children Of Wars. It was also her and her grandfather Khaled's birthday.
-## My Heart, My Two Eyes,
+## My Heart, My Two Eyes…
 ## The Soul Of My Soul. —KN
 
 
@@ -18,7 +18,7 @@ On November 24th, 2023, an unnanounced Israeli airstrike hit the home of Khaled 
 <div class="row">
 <div class="col">
 
-## 8241 children died in Gaza
+## {{ metadata.toll }} children died in Gaza
 [From October 7th to November 27th](https://www.instagram.com/p/C0KgDXVMiMp/).
 </div>
 <div class="col">
