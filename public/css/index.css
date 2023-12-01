@@ -1,13 +1,14 @@
 :root {
-	--bg-color: #ffffff;
-	--bg-secondary-color: #fcc419;
-	--grid-maxWidth: 108rem;
+	--bg-color: #fff0f6;
+	--bg-secondary-color: #faa2c1;
+	--grid-maxWidth: 112rem;
 	--grid-gutter: 2rem;
-	--font-color: #212529;
+	--font-color: #141619;
 	--color-primary: #e8590c;
 	--color-error: #e03131;
 	--color-success: #3b5bdb;
 	--color-darkGrey: #141619;
+	--color-lightGrey: #faa2c1;
 	--font-family-sans: 'Bricolage Grotesque', sans-serif;;
 	--font-family-mono: monaco, "Consolas", "Lucida Console", monospace;
 	--font-size: 2rem;
@@ -19,16 +20,17 @@
 
 .dark-mode {
 	--bg-color: #141619;
-	--bg-secondary-color: #141619;
+	--bg-secondary-color: #a61e4d;
 	--font-color: #f1f3f5;
 	--color-grey: #ced4da;
+	--color-primary: #d6336c;
 }
 
 h1 {
 	font-size: 14rem;
 	margin: 0;
 	line-height: 1.25;
-	font-stretch: semi-expanded;
+	font-stretch: ultra-expanded;
 	font-weight: 900;
 	letter-spacing: -0.04em;
 	text-transform: capitalize;
@@ -36,14 +38,14 @@ h1 {
 
 h2 {
 	font-size: 9.2rem;
-	font-weight: 700;
+	font-weight: 600;
 	margin: 0;
 	line-height: 1.25;
 	font-stretch: condensed;
 }
 
 h3 {
-	font-weight: 600;
+	font-weight: 500;
 	font-size: 3.4rem;
 	margin: 0;
 	line-height: 1.25;
@@ -62,18 +64,12 @@ center {
 	text-align: center;
 }
 
-article {
-	position: relative;
+.toll {
 }
 
-/* nav {
+.pr-header {
 	position: fixed;
 	top: 0;
-} */
-
-aside {
-	position: absolute;
-	bottom: 0;
 }
 
 article {
@@ -92,19 +88,23 @@ article {
 	}
 
 	h1 {
-		font-size: 14rem;
+		font-size: 13.6rem;
 	}
 
 	h2 {
-		font-size: 8rem;
+		font-size: 7rem;
 	}
 
 	h3 {
-		font-size: 2.8rem;
+		font-size: 2.7rem;
 	}
 
 	article {
 		height: 100vh;
+	}
+
+	body {
+		--bg-color: #fff;
 	}
 
 }

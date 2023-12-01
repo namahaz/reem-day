@@ -2,11 +2,12 @@
 layout: layouts/md.njk
 eleventyNavigation:
   key: ⚖️
-  order: 2
+  order: 3
 ---
-## Resolution
+# Resolution
 
-### A resolution declaring December 23rd as Reem Remembrance Day For Children Of Wars.
+### A draft resolution declaring December 23rd as Reem Remembrance Day For Children Of Wars.
+--
 
 Whereas, since October 7th, thousands of children have died from the 2023 Israel-Palestine war; and
 
