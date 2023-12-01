@@ -5,11 +5,12 @@ eleventyNavigation:
   order: 1
 ---
 
-# Reem.day
+# Reem.Day
+### In Khaled Nabhan's Words
 ## My Heart, My Two Eyes,
 ## The Soul Of My Soul…
 
-In November, 2023, an unnanounced Israeli airstrike hit the home where Khaleed Nabhan lived with his children and grandchildren. Lying beside their mom, 3 year old Reem Ali Badwan and 5 year old Tariq were trapped under rubble and succumbed to their injuries. Reem's birthday was on December 23rd, a birthday she shared with her beloved grandfather.
+On November 24th, 2023, an unnanounced Israeli airstrike hit the home where Khaleed Nabhan lived with his children and grandchildren. Lying beside their mom, siblings Reem Ali Badwan (aged 3) and Tarek (aged 5) were trapped under rubble and succumbed to their injuries. Reem's birthday was on December 23rd, a birthday she shared with her beloved grandfather.
 
 ### December 23rd marks Reem's Day of Remembrance For Children Of Wars. Please donate to children's aid groups.
 
