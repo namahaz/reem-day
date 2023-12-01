@@ -12,7 +12,7 @@ eleventyNavigation:
 ## The Soul Of My Soul. —KN
 
 
-On November 24th, 2023, an unnanounced Israeli airstrike hit the home of Khaled Nabhan with his children and grandchildren inside. Lying beside their mother Maysa, siblings Reem Ali Badwan (aged 3) and Tarek (aged 5) were trapped alive under the rubble before they died. Like others, their last days under Israeli blockade and onslaught were days of struggle and deprivation.
+On November 24th, 2023, an unnanounced Israeli airstrike hit the home of Khaled Nabhan with his children and grandchildren inside. Lying beside their mother Maysa, siblings Reem Ali Badwan (aged 3) and Tarek (aged 5) were trapped alive under the rubble before they died. Their last days under Israeli blockade and onslaught were days of struggle and deprivation.
 
 
 <div class="row">
@@ -23,7 +23,7 @@ On November 24th, 2023, an unnanounced Israeli airstrike hit the home of Khaled 
 </div>
 <div class="col">
 
-- ### Give to children's aid @[savethechilden](https://www.instagram.com/savethechildren), @[inaraorg](https://www.instagram.com/inaraorg/) & @[UNRWA](https://www.instagram.com/unrwa/).
+- ### Give to children's aid @[savethechilden](https://www.instagram.com/savethechildren), @[inaraorg](https://www.instagram.com/inaraorg/) & @[unrwa](https://www.instagram.com/unrwa/).
 - ### Call for De-escalation and Ceasefire 📞 [5calls.org](https://5calls.org/issue/israel-palestine-gaza-war-hamas-ceasefire/).
 
 </div>
