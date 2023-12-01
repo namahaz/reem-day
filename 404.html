@@ -21,7 +21,7 @@
 	--bg-secondary-color: #faa2c1;
 	--grid-maxWidth: 112rem;
 	--grid-gutter: 2rem;
-	--font-color: hsl(210, 11%, 15%);
+	--font-color: #141619;
 	--color-primary: #e8590c;
 	--color-error: #e03131;
 	--color-success: #3b5bdb;
@@ -38,9 +38,10 @@
 
 .dark-mode {
 	--bg-color: #141619;
-	--bg-secondary-color: #212529;
+	--bg-secondary-color: #a61e4d;
 	--font-color: #f1f3f5;
 	--color-grey: #ced4da;
+	--color-primary: #d6336c;
 }
 
 h1 {
@@ -81,18 +82,12 @@ center {
 	text-align: center;
 }
 
-article {
-	position: relative;
+.toll {
 }
 
-/* nav {
+.pr-header {
 	position: fixed;
 	top: 0;
-} */
-
-aside {
-	position: absolute;
-	bottom: 0;
 }
 
 article {
@@ -126,6 +121,10 @@ article {
 		height: 100vh;
 	}
 
+	body {
+		--bg-color: #fff;
+	}
+
 }
 
 @media screen and (max-width: 599px) {
@@ -152,6 +151,7 @@ article {
             <div class="tabs">
                 
                     <a href="/">🕊</a>
+                    <a href="/toll/">🪦</a>
                     <a href="/resolution/">⚖️</a>
             </div>
         </div>

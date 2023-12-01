@@ -32,11 +32,6 @@
 	</url>
 	
 	<url>
-		<loc>https://reem.day/posts/</loc>
-		<lastmod>2023-12-01</lastmod>
-	</url>
-	
-	<url>
 		<loc>https://reem.day/resolution/</loc>
 		<lastmod>2023-12-01</lastmod>
 	</url>
@@ -63,6 +58,11 @@
 	
 	<url>
 		<loc>https://reem.day/tags/posts-with-two-tags/</loc>
+		<lastmod>2023-12-01</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://reem.day/toll/</loc>
 		<lastmod>2023-12-01</lastmod>
 	</url>
 </urlset>
