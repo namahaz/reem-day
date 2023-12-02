@@ -8,8 +8,7 @@ eleventyNavigation:
 
 # Reem.Day
 ### December 23rd marks Reem's Day of Remembrance For Children Of Wars. It was also her and her grandfather Khaled's birthday.
-## My Heart, My Two Eyes…
-## The Soul Of My Soul. —KN
+## My Heart, My Two Eyes…<br/>The Soul Of My Soul. —KN
 
 
 On November 24th, 2023, an unnanounced Israeli airstrike hit the home of Khaled Nabhan with his children and grandchildren inside. Lying beside their mother Maysa, siblings Reem Ali Badwan (aged 3) and Tarek (aged 5) were trapped alive under the rubble before they died. Their last days under Israeli blockade and onslaught were days of struggle and deprivation.
