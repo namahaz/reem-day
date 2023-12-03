@@ -8,7 +8,7 @@ eleventyNavigation:
 
 # Gaza Child Deaths
 ### {{ metadata.description }}
-## {{ metadata.toll }} children died in Gaza in [55 days](https://www.instagram.com/euromedhr/).
+## {{ metadata.toll }} children killed in [55 days](https://www.instagram.com/euromedhr/).
 
 <div class="toll">
     <h2 class="text-grey">
