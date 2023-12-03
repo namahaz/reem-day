@@ -8,7 +8,7 @@ eleventyNavigation:
 ### {{ metadata.description }}
 ## My Heart, My Two Eyes…<br/>The Soul Of My Soul. —KN
 
-On November 24th, 2023, an unnanounced Israeli airstrike hit the home of Khaled Nabhan with his children and grandchildren inside. Lying beside their mother Maysa, siblings Reem Ali Badwan (aged 3) and Tarek (aged 5) were trapped alive under the rubble before they died. Their last days under Israeli blockade and onslaught were days of constant struggle and deprivation.
+On November 24th, 2023, an unannounced Israeli airstrike hit the home of Khaled Nabhan with his children and grandchildren inside. Lying beside their mother Maysa, siblings Reem Ali Badwan (aged 3) and Tarek (aged 5) were trapped alive under the rubble before they died. Their last days under Israeli blockade and onslaught were days of constant struggle and deprivation.
 
 
 <div class="row">
