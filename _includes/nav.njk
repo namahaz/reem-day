@@ -6,12 +6,13 @@
                 {%- for entry in collections.all | eleventyNavigation %}
                     <a href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a>
                 {%- endfor %}
+                <a href="/img/reem-day.pdf">🖨</a>
             </div>
         </div>
         <div class="nav-right hide-xs">
-            <a href="javascript:window.print();">🖨</a>
             <a href="javascript:document.body.classList.toggle('dark-mode')">🌚</a>
-            {% if page.url == "/palestine/" %}<a href="/palestine-v1.pdf" class="button error">📄 Posters</a>{% endif %}
+            <a class="button dark" href="https://www.inara.org/">inara.org</a>
+            <a class="button dark" href="https://www.savethechildren.org/">savethechildren.org</a>
         </div>
     </div>
 </nav>

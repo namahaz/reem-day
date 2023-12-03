@@ -1,9 +1,10 @@
 module.exports = {
-	title: "Dec 23rd, A Day For Reem",
+	title: "Dec 23rd is Reem's Day for Children of Palesstine",
 	url: "https://reem.day/",
 	language: "en",
-	description: "Reem's Day of Rememberance for Children of Wars, Reem and Tarek Ali Badwan Grandchildren of Khaled Nabhan",
-	toll: 8241,
+	description: "December 23rd is Reem's Day For Children Of Palestine and also her and her grandfather's birthday.",
+	toll: 8312,
+	duration: 55,
 	author: {
 		name: "Reem.Day",
 		email: "",

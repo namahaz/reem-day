@@ -4,9 +4,12 @@ eleventyNavigation:
   key: ⚖️
   order: 3
 ---
-# Resolution
+![Tarek, Khaled and Reem](/img/cover.png)
 
-### A draft resolution declaring December 23rd as Reem Remembrance Day For Children Of Wars.
+# Draft Resolution
+
+### {{ metadata.description }}
+## {{ metadata.toll }} children killed in [55 days](https://www.instagram.com/euromedhr/).
 --
 
 Whereas, since October 7th, thousands of children have died from the 2023 Israel-Palestine war; and

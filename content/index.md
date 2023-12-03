@@ -4,30 +4,28 @@ eleventyNavigation:
   key: 🕊
   order: 1
 ---
+![Tarek, Khaled and Reem](/img/cover.png)
+### {{ metadata.description }}
+## My Heart, My Two Eyes…<br/>The Soul Of My Soul. —KN
 
-
-# Reem.Day
-### December 23rd marks Reem's Day of Remembrance For Children Of Wars. It was also her and her grandfather Khaled's birthday.
-## My Heart, My Two Eyes…
-## The Soul Of My Soul. —KN
-
-
-On November 24th, 2023, an unnanounced Israeli airstrike hit the home of Khaled Nabhan with his children and grandchildren inside. Lying beside their mother Maysa, siblings Reem Ali Badwan (aged 3) and Tarek (aged 5) were trapped alive under the rubble before they died. Their last days under Israeli blockade and onslaught were days of struggle and deprivation.
+On November 24th, 2023, an unannounced Israeli airstrike hit the home of Khaled Nabhan with his children and grandchildren inside. Lying beside their mother Maysa, siblings Reem Ali Badwan (aged 3) and Tarek (aged 5) were trapped alive under the rubble before they died. Their last days under Israeli blockade and onslaught were days of constant struggle and deprivation.
 
 
 <div class="row">
 <div class="col">
 
-## {{ metadata.toll }} children died in Gaza
-[From October 7th to November 27th](https://www.instagram.com/p/C0KgDXVMiMp/).
+### > Give to children's aid at [inara.org](https://www.instagram.com/inaraorg/) and [savethechilden.org](https://www.instagram.com/savethechildren)
+### > Call for De-escalation and Ceasefire 📞 [5calls.org](https://5calls.org/issue/israel-palestine-gaza-war-hamas-ceasefire/)
+
 </div>
 <div class="col">
 
-- ### Give to children's aid @[savethechilden](https://www.instagram.com/savethechildren), @[inaraorg](https://www.instagram.com/inaraorg/) & @[unrwa](https://www.instagram.com/unrwa/).
-- ### Call for De-escalation and Ceasefire 📞 [5calls.org](https://5calls.org/issue/israel-palestine-gaza-war-hamas-ceasefire/).
+## {{ metadata.toll }} children killed in [{{ metadata.duration }} days](https://www.instagram.com/euromedhr/)
+</div>
+</div>
 
-</div>
-</div>
+# Reem's Day <img src="https://chart.googleapis.com/chart?cht=qr&chs=120x120&chl={{ metadata.url }}" class="pull-right hide-xs hide-sm hide-md hide-lg" />
+
 {% include "donate.njk" %}
 <div class="hide-pr">
 
