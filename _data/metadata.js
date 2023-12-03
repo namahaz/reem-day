@@ -1,5 +1,5 @@
 module.exports = {
-	title: "Dec 23rd, A Day For Reem",
+	title: "Dec 23rd is Reem's Day for Children of Palesstine",
 	url: "https://reem.day/",
 	language: "en",
 	description: "December 23rd is Reem's Day For Children Of Palestine and also her and her grandfather's birthday.",
