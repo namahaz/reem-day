@@ -8,15 +8,15 @@ eleventyNavigation:
 <div class="row">
 <div class="col">
 
-## My Heart
-## My Two Eyes
-## The Soul
-## Of My Soul
+![Tarek, Khaled and Reem](/img/khaled-reem.png)
 
 </div>
 <div class="col">
 
-![Tarek, Khaled and Reem](/img/khaled-reem.png)
+## My Heart
+## My Two Eyes
+## The Soul
+## Of My Soul
 
 </div>
 </div>
